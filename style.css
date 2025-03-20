@@ -16,13 +16,22 @@ header {
     background: #222;
 }
 
+header h1{
+    color: whitesmoke
+}
+
 nav a {
     color: white;
     text-decoration: none;
     margin: 0 15px;
 }
 
-
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: url('https://source.unsplash.com/1600x900/?skateboard') no-repeat center center/cover;
+}
 
 /* Product Section */
 .products {
